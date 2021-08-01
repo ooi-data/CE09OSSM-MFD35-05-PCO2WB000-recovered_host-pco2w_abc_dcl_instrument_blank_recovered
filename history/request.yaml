@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-MFD35-05-PCO2WB000-recovered_host-pco2w_abc_dcl_instrument_blank_recovered
-last_request: '2021-07-19T18:26:34.349826Z'
+last_request: '2021-08-01T00:32:27.551698Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD35-05-PCO2WB000-recovered_host-pco2w_abc_dcl_instrument_blank_recovered/main/history/response.json
-status: success
+status: failed
